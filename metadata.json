@@ -1,0 +1,6 @@
+{
+  "name": "Gather — Events & Community Platform",
+  "description": "Discover local and online community events, RSVP with guaranteed capacity enforcement, and manage attendee records in one unified organizer workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
